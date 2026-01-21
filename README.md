@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+# Auto Click !
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+SAFE AUTO CLICKER PROGRAM
+=========================
+Multiple exit methods built-in!
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+=== SAFE AUTO CLICKER ===
+1. Set click interval (ms)
+2. Set specific click position
+3. Use current cursor position
+4. Start auto-clicker (ESC to stop)
+5. Exit program
+Choice:
+
+
